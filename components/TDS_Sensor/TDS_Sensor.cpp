@@ -1,4 +1,4 @@
-#include "your_component_name.h"
+#include "TDS_Sensor.h"
 
 void TDSSensorComponent::setup() {
   // 初始化代码
